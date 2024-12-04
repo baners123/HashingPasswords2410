@@ -1,2 +1,2 @@
 # HashingPasswords2410
-Hashing Passwords done by Jimi Adegoroye, Josh W., and Steven Davis
+Hashing Passwords Project done by Jimi Adegoroye, Josh W., and Steven Davis
